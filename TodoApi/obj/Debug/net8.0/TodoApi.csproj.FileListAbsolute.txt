@@ -23,3 +23,11 @@
 /Users/adityaseth/Documents/GitHub/nexus/TodoApi/obj/Debug/net8.0/TodoApi.pdb
 /Users/adityaseth/Documents/GitHub/nexus/TodoApi/obj/Debug/net8.0/TodoApi.genruntimeconfig.cache
 /Users/adityaseth/Documents/GitHub/nexus/TodoApi/obj/Debug/net8.0/ref/TodoApi.dll
+/Users/adityaseth/Documents/GitHub/nexus/TodoApi/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/adityaseth/Documents/GitHub/nexus/TodoApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/adityaseth/Documents/GitHub/nexus/TodoApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/adityaseth/Documents/GitHub/nexus/TodoApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/adityaseth/Documents/GitHub/nexus/TodoApi/obj/Debug/net8.0/TodoApi.csproj.AssemblyReference.cache
+/Users/adityaseth/Documents/GitHub/nexus/TodoApi/obj/Debug/net8.0/TodoApi.MvcApplicationPartsAssemblyInfo.cs
+/Users/adityaseth/Documents/GitHub/nexus/TodoApi/obj/Debug/net8.0/TodoApi.sourcelink.json
+/Users/adityaseth/Documents/GitHub/nexus/TodoApi/obj/Debug/net8.0/TodoApi.csproj.Up2Date
