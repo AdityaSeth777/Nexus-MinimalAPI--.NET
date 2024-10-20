@@ -31,3 +31,6 @@
 /Users/adityaseth/Documents/GitHub/nexus/TodoApi/obj/Debug/net8.0/TodoApi.MvcApplicationPartsAssemblyInfo.cs
 /Users/adityaseth/Documents/GitHub/nexus/TodoApi/obj/Debug/net8.0/TodoApi.sourcelink.json
 /Users/adityaseth/Documents/GitHub/nexus/TodoApi/obj/Debug/net8.0/TodoApi.csproj.Up2Date
+/Users/adityaseth/Documents/GitHub/nexus/TodoApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/Users/adityaseth/Documents/GitHub/nexus/TodoApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/adityaseth/Documents/GitHub/nexus/TodoApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.InMemory.dll
