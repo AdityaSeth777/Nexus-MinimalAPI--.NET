@@ -1,9 +1,9 @@
 using Microsoft.OpenApi.Models;
 using Microsoft.EntityFrameworkCore;
-
 var builder = WebApplication.CreateBuilder(args);
+var connectionString = builder.Configuration.GetConnectionString("todos") ?? "Data Source=todos.db";
 builder.Services.AddEndpointsApiExplorer();
-builder.Services.AddDbContext<TodoDb>(options => options.UseInMemoryDatabase("items"));
+builder.Services.AddSqlite<TodoDb>(connectionString);
 builder.Services.AddSwaggerGen(c =>
 {
     c.SwaggerDoc("v1", new OpenApiInfo { Title = "Todo API", Description = "Keep track of your tasks", Version = "v1" });
