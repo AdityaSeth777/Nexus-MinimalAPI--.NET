@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/adityaseth/Documents/GitHub/nexus/TodoApi/TodoApi.csproj": {}
+    "/Users/adityaseth/Documents/GitHub/nexus/TodoApi.csproj": {}
   },
   "projects": {
-    "/Users/adityaseth/Documents/GitHub/nexus/TodoApi/TodoApi.csproj": {
+    "/Users/adityaseth/Documents/GitHub/nexus/TodoApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/adityaseth/Documents/GitHub/nexus/TodoApi/TodoApi.csproj",
+        "projectUniqueName": "/Users/adityaseth/Documents/GitHub/nexus/TodoApi.csproj",
         "projectName": "TodoApi",
-        "projectPath": "/Users/adityaseth/Documents/GitHub/nexus/TodoApi/TodoApi.csproj",
+        "projectPath": "/Users/adityaseth/Documents/GitHub/nexus/TodoApi.csproj",
         "packagesPath": "/Users/adityaseth/.nuget/packages/",
-        "outputPath": "/Users/adityaseth/Documents/GitHub/nexus/TodoApi/obj/",
+        "outputPath": "/Users/adityaseth/Documents/GitHub/nexus/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/adityaseth/.nuget/NuGet/NuGet.Config"
